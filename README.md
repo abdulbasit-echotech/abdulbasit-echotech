@@ -1,12 +1,12 @@
-# Abdul Basit · Echo Tech
+# Abdul Basit · Founder @ Echo Tech
 
-> AI automation for clinics. Built in Pakistan. Deployed worldwide.
+> This is my personal founder profile. Echo Tech builds AI automation for clinics.
 
 ---
 
 ## What I Build
 
-I run **Echo Tech** — an AI agency that builds web apps and automation systems exclusively for clinics and healthcare professionals.
+**Echo Tech** is an AI agency that builds web apps and automation systems exclusively for clinics and healthcare professionals.
 
 Every client gets a custom-built dashboard backed by an automation engine — not templates, not plugins. Real software.
 
@@ -33,7 +33,7 @@ Every client gets a custom-built dashboard backed by an automation engine — no
 - 🏥 Healthcare-only AI automation
 - 🌍 International clinic clients (USD pricing)
 - 🤖 AI-powered web apps with client-facing dashboards
-- 🧠 Founder-led, fast, and direct
+- 🧠 Founder-led — you talk to the builder, not an account manager
 
 ---
 

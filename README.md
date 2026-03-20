@@ -1,16 +1,47 @@
-## Hi there 👋
+# Abdul Basit · Echo Tech
 
-<!--
-**abdulbasit-echotech/abdulbasit-echotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> AI automation for clinics. Built in Pakistan. Deployed worldwide.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+
+I run **Echo Tech** — an AI agency that builds web apps and automation systems exclusively for clinics and healthcare professionals.
+
+Every client gets a custom-built dashboard backed by an automation engine — not templates, not plugins. Real software.
+
+**Current service stack:**
+- Appointment & scheduling automation
+- Patient intake & follow-up systems
+- Billing & collections AI
+- Staff communication tools
+- Referral tracking
+- Reputation & review management
+- Analytics dashboards
+- Custom AI chat agents
+
+---
+
+## Stack
+
+`Python` · `JavaScript` · `Node.js` · `React` · `n8n` · `Make` · `OpenAI API` · `Anthropic Claude`
+
+---
+
+## Focus
+
+- 🏥 Healthcare-only AI automation
+- 🌍 International clinic clients (USD pricing)
+- 🤖 AI-powered web apps with client-facing dashboards
+- 🧠 Founder-led, fast, and direct
+
+---
+
+## Connect
+
+- 📧 Reach out via GitHub or the Echo Tech website
+- 🚀 Currently onboarding early partners — limited spots
+
+---
+
+*BSAI student · Peshawar, Pakistan · Building in public*
